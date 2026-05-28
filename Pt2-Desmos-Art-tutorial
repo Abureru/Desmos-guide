@@ -63,6 +63,7 @@ First of all, I need to introduce a tiny bit of calculus. One way to look at cal
 
 However, as I have zero intention of deriving and integrating every time I want to draw on Desmos, I just trial and error my equation by dilating and/or translating it to the chosen point where even though the graphs ends up intersect at at least 2 points, I ensure that the two intersect points are so close to the point of connection that you cannot tell it being not mathematically smooth with the naked eye, hence I named it visually smooth joints.
 
+![Description](https://github.com/Abureru/Desmos-guide/blob/main/image.png?raw=true)
 
 5. My Art Workflow
 - Import image
